@@ -1,5 +1,5 @@
 ﻿<h1 align="center"> DevLinks </h1>
-<img src="./preview.jpg" alt="">
+<img src="./preview(1).jpg" alt="">
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
